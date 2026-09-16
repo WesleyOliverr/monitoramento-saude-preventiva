@@ -1,0 +1,17 @@
+ID_Atendimento;Data_Atendimento;Bairro_Residencia;Faixa_Etaria;Sexo;Agravo_Saude;UBS_Atendimento;Status_Acompanhamento
+ATD-1000;01/06/2026;Centro;18-59 anos;Feminino;Hipertensão;UBS Centro;Em Acompanhamento
+ATD-1001;01/06/2026;Alto da Boa Vista;60+ anos;Masculino;Diabetes;UBS Alto da Boa Vista;Em Acompanhamento
+ATD-1002;01/06/2026;Croatá;18-59 anos;Feminino;Dengue/Arboviroses;UBS Croatá;Alta/Resolvido
+ATD-1003;01/06/2026;Pedras;0-12 anos;Masculino;Rotina/Preventivo;UBS Pedras;Alta/Resolvido
+ATD-1004;01/06/2026;Tucunduba;60+ anos;Feminino;Hipertensão;UBS Centro;Em Acompanhamento
+ATD-1005;01/06/2026;Buriti;18-59 anos;Feminino;Atendimento Pré-Natal;UBS Croatá;Em Acompanhamento
+ATD-1006;01/06/2026;Centro;60+ anos;Masculino;Diabetes;UBS Centro;Em Acompanhamento
+ATD-1007;01/06/2026;Alto da Boa Vista;18-59 anos;Feminino;Saúde Mental;UBS Alto da Boa Vista;Encaminhado Especialista
+ATD-1008;01/06/2026;Croatá;13-17 anos;Masculino;Dengue/Arboviroses;UBS Croatá;Alta/Resolvido
+ATD-1009;01/06/2026;Pedras;60+ anos;Feminino;Hipertensão;UBS Pedras;Em Acompanhamento
+ATD-1010;02/06/2026;Centro;18-59 anos;Masculino;Diabetes;UBS Centro;Falta/Absenteísmo
+ATD-1011;02/06/2026;Alto da Boa Vista;18-59 anos;Feminino;Atendimento Pré-Natal;UBS Alto da Boa Vista;Em Acompanhamento
+ATD-1012;02/06/2026;Tucunduba;60+ anos;Masculino;Hipertensão;UBS Pedras;Em Acompanhamento
+ATD-1013;02/06/2026;Buriti;0-12 anos;Feminino;Rotina/Preventivo;UBS Croatá;Alta/Resolvido
+ATD-1014;02/06/2026;Centro;18-59 anos;Masculino;Saúde Mental;UBS Centro;Encaminhado Especialista
+ATD-1015;02/06/2026;Croatá;60+ anos;Feminino;Diabetes;UBS Croatá;Em Acompanhamento
